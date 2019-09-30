@@ -1,0 +1,150 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "calligarisregular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 2870,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum tortor, consectetur et diam eget, faucibus efficitur turpis. Nam quis sem vitae magna posuere vehicula ut vitae ante. Quisque elementum elit in mattis cursus. Suspendisse potenti. Mauris mi erat, tempor ut dictum sit amet, fermentum quis sem. Sed euismod suscipit lacus, eu scelerisque quam dignissim vel. In non volutpat odio. Integer nec tellus enim. Phasellus finibus fermentum aliquet. Duis eget libero in lectus elementum dictum sit amet a metus. Vestibulum aliquam, lacus vel facilisis feugiat, eros dui porttitor mauris, id tempus lacus sapien quis sapien. Ut tristique, arcu quis pharetra feugiat, magna erat mollis lectus, laoreet placerat quam orci quis ipsum.\n\nCurabitur dictum id odio in hendrerit. Sed ultrices congue egestas. Etiam venenatis felis in urna elementum luctus. Ut lectus mi, bibendum eget lorem eget, interdum convallis neque. Maecenas eu velit ligula. Integer diam lectus, pretium ut diam nec, mattis lacinia nisl. Donec eget commodo est. Fusce ut metus a nisl pellentesque dignissim eget id lacus. Proin non vehicula neque. Fusce tristique ante eu eros iaculis faucibus. Aliquam viverra arcu vel nisi vestibulum fermentum quis ac turpis. Duis malesuada imperdiet magna eu feugiat.\n\nNunc neque lorem, dapibus non pulvinar ut, faucibus a urna. Praesent ut varius purus. Aenean sit amet euismod metus. In in enim pulvinar, imperdiet nibh et, tristique massa. Morbi tristique tempor elementum. Praesent eleifend cursus ex, euismod tempus ex dapibus ac. Nulla elementum lorem elementum lacus congue vehicula. Phasellus dictum nulla vel diam elementum dignissim. Nullam vel nisi libero. Integer magna tortor, blandit tristique blandit vel, gravida et neque. Aliquam erat volutpat. Sed venenatis odio sed pharetra viverra. Etiam mattis, urna in vulputate pellentesque, odio erat feugiat nisi, vitae tristique nulla neque eget sapien. Nulla ac vestibulum nibh, id ornare metus. Cras commodo erat odio, et venenatis justo porttitor gravida. Nam iaculis a ante in vehicula.\n\nUt non nisl dolor. Sed dictum ligula a turpis feugiat rhoncus. Aenean convallis lacinia odio ut eleifend. Nullam facilisis non quam vitae dictum. Nulla placerat lacus ac augue pretium maximus. Ut metus arcu, commodo vel luctus fermentum, euismod euismod magna. Aenean posuere lorem vitae velit interdum, interdum mollis nulla vehicula. Aenean fringilla sodales pellentesque. Nam condimentum, arcu sed eleifend sollicitudin, quam nulla eleifend quam, et vehicula risus orci in justo. Nullam dignissim vehicula imperdiet. Aenean malesuada nunc sed ante tincidunt, id lobortis dolor tempus. In non tortor elementum, tristique odio sed, tincidunt erat. Donec ultricies, orci ac finibus varius, dui enim elementum felis, ac suscipit lacus erat sed erat. Cras convallis metus orci, cursus commodo purus dapibus at."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "88F25128-0C00-4848-A7CE-EF475C358FDD",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 504,
+    "width": 1320,
+    "x": 240,
+    "y": 324
+  },
+  "glyphBounds": "{{-1, 7}, {1320, 496}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "485BEFDA-3FFB-4ACA-A0AF-607986834AF7",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4DCC9543-CA7F-4535-9A15-135EB053EDC6",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "calligarisregular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        },
+        "textStyleVerticalAlignmentKey": 1
+      },
+      "verticalAlignment": 1
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

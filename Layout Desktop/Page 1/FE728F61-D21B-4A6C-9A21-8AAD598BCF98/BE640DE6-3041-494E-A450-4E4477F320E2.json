@@ -1,0 +1,150 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1254901960784314,
+            "green": 0.09411764705882353,
+            "red": 0.1137254901960784
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Calligaris-Bold",
+              "size": 121.1
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 181.6,
+            "minimumLineHeight": 181.6
+          },
+          "textStyleVerticalAlignmentKey": 1
+        },
+        "length": 575,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ipsum tortor, consectetur et diam eget, faucibus efficitur turpis. Nam quis sem vitae magna posuere vehicula ut vitae ante. Quisque elementum elit in mattis cursus. Suspendisse potenti. Mauris mi erat, tempor ut dictum sit amet, fermentum quis sem. Sed euismod suscipit lacus, eu scelerisque quam dignissim vel. In non volutpat odio. Integer nec tellus enim. Phasellus finibus fermentum aliquet. Duis eget libero in lectus elementum dictum sit amet a metus. Vestibulum aliquam, lacus vel facilisis feugiat, eros d"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE640DE6-3041-494E-A450-4E4477F320E2",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 413,
+    "width": 1080,
+    "x": 274,
+    "y": 991
+  },
+  "glyphBounds": "{{1, 40}, {1037, 6445}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "266E56E8-885E-4091-A9A3-6266B93D0038",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "03989D3D-E00E-44DD-9EC9-E6345AC28115",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1254901960784314,
+          "green": 0.09411764705882353,
+          "red": 0.1137254901960784
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Calligaris-Bold",
+            "size": 121.1
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 181.6,
+          "minimumLineHeight": 181.6
+        },
+        "textStyleVerticalAlignmentKey": 1
+      },
+      "verticalAlignment": 1
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}
