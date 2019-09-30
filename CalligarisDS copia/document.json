@@ -1,0 +1,172 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2509803921568627,
+          "green": 0.2,
+          "red": 0.9372549019607843
+        },
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1254901960784314,
+          "green": 0.09411764705882353,
+          "red": 0.1137254901960784
+        },
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3490196078431372,
+          "green": 0.3294117647058823,
+          "red": 0.3215686274509804
+        },
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7450980392156863,
+          "green": 0.8588235294117647,
+          "red": 0.9019607843137255
+        },
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9333333333333333,
+          "green": 0.9294117647058824,
+          "red": 0.9294117647058824
+        },
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "name": ""
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2509803921568627,
+        "green": 0.2,
+        "red": 0.9372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1254901960784314,
+        "green": 0.09411764705882353,
+        "red": 0.1137254901960784
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3490196078431372,
+        "green": 0.3294117647058823,
+        "red": 0.3215686274509804
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7450980392156863,
+        "green": 0.8588235294117647,
+        "red": 0.9019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9333333333333333,
+        "green": 0.9294117647058824,
+        "red": 0.9294117647058824
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    ],
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "1930007C-1899-44F9-B1A0-9B7E6DAA6A6D",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "58",
+    "build": 84663,
+    "version": 120
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.abstractapp.sketchplugin.1685a5c9-5230-4d37-963c-5efa0f361065": {
+      "metadata": {
+        "branchId": "master",
+        "branchName": "Master",
+        "fileId": "1930007C-1899-44F9-B1A0-9B7E6DAA6A6D",
+        "fileTreeSha": "55c30341e6e22e7155a1aa9297ff1de138c8e1c5",
+        "name": "CalligarisDS",
+        "projectId": "0f6ced3a-93bb-4d00-aa51-df37ae46eb0f",
+        "projectName": "",
+        "readOnly": 1,
+        "sha": "9c440a98dd4507ed5d8dc020610f482ad52f4de9",
+        "version": 2
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
